@@ -10,7 +10,7 @@ public class Main
         String d = "int = -2147483648 до 2147483647";
         String e = "long = -9223372036854775808 до 9223372036854775807";
         String f = "float =  -1.4e-45f до 3.4e+38f";
-        String g = "double = -4.9e-324 до 1.7e+308";
+        String g = "double = -4.9e-324d до 1.7e+308d";
 
         System.out.println("Hello World!");
         System.out.println("Line");
